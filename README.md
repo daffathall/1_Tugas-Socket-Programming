@@ -1,7 +1,13 @@
 # 1_Tugas-Socket-Programming
-Tugas UDP Socket Programming by kelompok 1 GAS 
-Samuel Chris Michael Bagasta Simanjuntak (18223011)\n
+Tugas UDP Socket Programming by kelompok 1 GAS
+
+
+Samuel Chris Michael Bagasta Simanjuntak (18223011)
+
+
 Daffa Athalla Rajasa (18223053)
+
+
 Ghazy Achmed Movlech Urbayani (18223093)
 
 # Prosedur untuk menjalankan program GAS Chatroom
