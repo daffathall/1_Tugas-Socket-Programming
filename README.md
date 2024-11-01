@@ -20,11 +20,21 @@ Langkah-langkah pengujian program adalah sebagai berikut:
 
 
    b. Pastikan Laptop client dan server terhubung pada jaringan yang sama.
+
+
    c. Membuka terminal pada folder yang berisi server.py dan client,py di laptop atau komputer
       yang bertindak sebagai server
-   d. Command untuk run server: 
+
+
+   d. Command untuk run server:
+
+
       python server.py < IP SERVER> -p [PORT]
+
+
    e. Tunggu respons dari terminal
+
+   
 3. Menjalankan client
    a. Pastikan server.py dan client.py berada dalam satu folder
    b. Pastikan laptop client dan server terhubung pada jaringan yang sama
