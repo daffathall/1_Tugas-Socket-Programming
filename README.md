@@ -69,4 +69,6 @@ Langkah-langkah pengujian program adalah sebagai berikut:
 
    
    c. Untuk melihat proses menerima dan mengirim pesan antar client maka pengguna dapat membuka       terminal yang sudah dijalankan untuk server
+
+   
    d. Apabila salah satu ataupun kedua client sudah selesai mengirim pesan, maka client bisa          memberi command “QUIT’ untuk keluar dari aplikasi Chatroom.
